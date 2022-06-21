@@ -1,4 +1,4 @@
-# LightUINO
+# AlarmUINO
 Stand Alone - Lichtwecker auf Basis eines Arduino
 
 Der soll mithilfe von LEDs den Sonnenaufgang simulieren und einen so sanft aufwecken.
