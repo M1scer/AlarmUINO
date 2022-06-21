@@ -15,3 +15,4 @@ Danke an das "TonUINO" Projekt, das mir als Einstiegshilfe gedient hat.
 ## Version 0.xx (xx.xx.2022)
 - Schaltplan erstellt
 - Uhrzeit beim Starten anzeigen
+- Uhrzeit über Einstellungen einstellbar
